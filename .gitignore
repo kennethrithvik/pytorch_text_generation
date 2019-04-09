@@ -105,5 +105,6 @@ ENV/
 configs/
 
 #models
-models/
+models/model.pt
+models/corpus.pkl
 
